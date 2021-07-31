@@ -1,35 +1,35 @@
 body {
     font
-	background-color: #ebf1f5;
+    background-color: #ebf1f5;
     background-attachment: fixed;
     background-image: url(https://api.ixiaowai.cn/api/api.php);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
     min-height: 800px;
-	margin: 0;
+    margin: 0;
 }
 
 .main {
     border: solid aqua;
-	position: relative;
-	top: 50%;
-	width: 100%;
-	max-width: 1000px;
-	transform: translateY(-50%);
-	margin-left: auto;
-	margin-right: auto;
-	box-shadow: 0px 5px 15px 5px rgb(0 255 255);
-	display: flex;
-	height: 500px;
+    position: relative;
+    top: 50%;
+    width: 100%;
+    max-width: 1000px;
+    transform: translateY(-50%);
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 5px 15px 5px rgb(0 255 255);
+    display: flex;
+    height: 500px;
 }
 
 .main:hover {
-	opacity: 0.6;
+    opacity: 0.6;
 }
 
 footer p {
-	font-size: 12px;
+    font-size: 12px;
 }
 
 a {
@@ -39,8 +39,8 @@ a {
 }
 
 .my {
-	text-align: center;
-	font-size: 20px;
+    text-align: center;
+    font-size: 20px;
 }
 
 a:not([href]) {
@@ -49,16 +49,16 @@ a:not([href]) {
 }
 
 .awa {
-	background-color: #FFFFFF;
-	width: 53%;
-	flex: 0 0 53%;
-	padding: 60px;
+    background-color: #FFFFFF;
+    width: 53%;
+    flex: 0 0 53%;
+    padding: 60px;
 }
 .qwq {
-	flex:0 0 35%;
-	width: 35%;
-	background-image: url(https://api.ixiaowai.cn/mcapi/mcapi.php);
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
+    flex:0 0 35%;
+    width: 35%;
+    background-image: url(https://api.ixiaowai.cn/mcapi/mcapi.php);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
